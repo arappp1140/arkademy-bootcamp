@@ -6,7 +6,7 @@ Software Yang dibutuhkan :
 
 1. Browser(Chrome)
 2. XAMPP(untuk menjalankan Localhost)
-3. ATOM (Engine Editor)
+3. Sublime Text 3 (Engine Editor)
 
 Panduan Menjalankan Sistem Program :
 1. Jalankan XAMPP dan nyalakan MYSQL & Apache
